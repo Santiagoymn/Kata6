@@ -1,6 +1,6 @@
 package toyproduct.models;
 
-import toyproduct.Toy;
+import toyproducts.Toy;
 
 
 public class AsianHelicopterToy implements Toy {
